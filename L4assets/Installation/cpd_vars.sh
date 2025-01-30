@@ -69,7 +69,7 @@ export VERSION=5.1.0
 # ------------------------------------------------------------------------------
 # Components
 # ------------------------------------------------------------------------------
-export COMPONENTS=ibm-licensing,scheduler,cpfs,cpd_platform
+export COMPONENTS=ibm-licensing,scheduler
 #export COMPONENTS=ikc_premium,dmc,db2oltp,datalineage,dataproduct
 # export COMPONENTS_TO_SKIP=<component-ID-1>,<component-ID-2>
 # ------------------------------------------------------------------------------
